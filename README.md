@@ -1,8 +1,9 @@
-### Hi there 👋
+### Heyy, I'm Diogo, welcome to my GitHub! 👋
 
 - 🔭 I’m currently working on some personal projects
 - 🌱 I’m currently learning JavaScript, HTML-5 and CSS
 - 🔎 I'm currently searching for a Front-end job
+- 🐧 I use linux and love customizing my OS
 - 📫 How to reach me: diogogarbinato@gmail.com
 - ⚡ Fun fact: I've lived in 3 different countries :) 
 
