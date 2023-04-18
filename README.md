@@ -11,7 +11,7 @@
     <li> ⚡ Fun fact: I've lived in 3 different countries :) 
 </ul>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiogoGDF&layout=compact&langs_count=16&theme=transparent"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiogoGDF&layout=compact&langs_count=16&theme=blue-green"/>
 
 <!--
 **DiogoGDF/DiogoGDF** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
