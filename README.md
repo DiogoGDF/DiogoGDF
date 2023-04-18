@@ -1,6 +1,6 @@
-### Heyy, I'm Diogo, welcome to my GitHub! 👋
-
 <img align="right" src="https://upload.wikimedia.org/wikipedia/commons/b/b9/Digital_rain_animation_medium_letters_3_clear.gif" width="50%" alt="matrix gif">
+
+### Heyy, I'm Diogo, welcome to my GitHub! 👋
 
 - 🔭 I’m currently working on some personal projects
 - 🌱 I’m currently learning JavaScript, HTML-5 and CSS
