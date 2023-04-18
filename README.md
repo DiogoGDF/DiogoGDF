@@ -1,6 +1,6 @@
 <img align="right" src="matrix.gif" width="50%" alt="matrix gif" style="filter: brightness(50%) contrast(70%);">
 
-<h2> こんにちは(^_^)<br>Welcome to my GitHub! 💻🤗</h2>
+<h2> console.log("Hello, World!")<br>Welcome to my GitHub! 💻🤗</h2>
 
 <ul>
     <li> 🔭 I’m currently working on some personal projects
