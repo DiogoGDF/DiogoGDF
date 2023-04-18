@@ -1,6 +1,6 @@
 <img align="right" src="https://upload.wikimedia.org/wikipedia/commons/b/b9/Digital_rain_animation_medium_letters_3_clear.gif" width="50%" alt="matrix gif" style="filter: brightness(50%) contrast(70%);">
 
-<h2> Welcome to my GitHub! 💻</h2>
+<h2> こんにちは(^_^)<br>Welcome to my GitHub! 💻🤗</h2>
 
 <ul>
     <li> 🔭 I’m currently working on some personal projects
