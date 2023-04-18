@@ -1,4 +1,4 @@
-<img align="right" src="https://upload.wikimedia.org/wikipedia/commons/b/b9/Digital_rain_animation_medium_letters_3_clear.gif" width="50%" alt="matrix gif" style="filter: brightness(50%) contrast(70%);">
+<img align="right" src="matrix.gif" width="50%" alt="matrix gif" style="filter: brightness(50%) contrast(70%);">
 
 <h2> こんにちは(^_^)<br>Welcome to my GitHub! 💻🤗</h2>
 
@@ -11,6 +11,7 @@
     <li> ⚡ Fun fact: I've lived in 3 different countries :) 
 </ul>
 
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiogoGDF&layout=compact&langs_count=16&theme=dracula"/>
 
 <!--
 **DiogoGDF/DiogoGDF** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
