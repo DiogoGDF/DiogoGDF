@@ -7,7 +7,7 @@
 - 📫 How to reach me: diogogarbinato@gmail.com
 - ⚡ Fun fact: I've lived in 3 different countries :) 
 
-
+![matrix gif](https://upload.wikimedia.org/wikipedia/commons/b/b9/Digital_rain_animation_medium_letters_3_clear.gif)
 <!--
 **DiogoGDF/DiogoGDF** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
