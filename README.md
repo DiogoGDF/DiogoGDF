@@ -11,17 +11,4 @@
     <li> ⚡ Fun fact: I've lived in 3 different countries :) 
 </ul>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiogoGDF&layout=compact&langs_count=16&theme=blue-green"/>
-
-<!--
-**DiogoGDF/DiogoGDF** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 😄 Pronouns: ...
-
--->
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=DiogoGDF&layout=compact&langs_count=16&theme=solarized-dark"/>
