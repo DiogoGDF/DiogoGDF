@@ -11,4 +11,4 @@
     <li> ⚡ Fun fact: I've lived in 3 different countries :) 
 </ul>
 
-<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=DiogoGDF&layout=compact&langs_count=16&theme=solarized-dark"/>
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=DiogoGDF&layout=compact&langs_count=16&theme=dark-blue"/>
