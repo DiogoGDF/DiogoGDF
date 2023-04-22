@@ -20,4 +20,4 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="C" width="30" height="30" />
 <br>
 
-<img height="180em" style="margin-top:25px;" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=DiogoGDF&layout=compact&langs_count=16&theme=blue-green"/>
+<img height="180em" src="https://github-readme-stats-diogogdf.vercel.app/api/top-langs/?username=DiogoGDF&layout=compact&langs_count=16&theme=blue-green"/>
