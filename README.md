@@ -11,13 +11,17 @@
     <li> ⚡ Fun fact: I've lived in 3 different countries :) 
 </ul>
 
+<div style="display: inline_block">
 <h2>Languages & Tools:</h2>
-<p align="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="css3" width="30" height="30" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="30" height="30" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30" />
-<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" alt="java" width="30" height="30" />
-<img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="C" width="30" height="30" />
+  <img align="center" alt="Java" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
+  <img align="center" alt="HTML-5" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg">
+ <img align="center" alt="CSS3" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg">
+  <img align="center" alt="JavaScript" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
+  <img align="center" alt="Linux" height="35" width="47" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg">
+  <img align="center" alt="C" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg">
+<img align="center" alt="Bash" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg">
+ <img align="center" alt="Git" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
+</div>
 <br>
 
-<img height="230em" src="https://github-readme-stats-diogogdf.vercel.app/api/top-langs/?username=DiogoGDF&layout=compact&langs_count=16&theme=blue-green"/>
+<img  width="360em" src="https://github-readme-stats-diogogdf.vercel.app/api/top-langs/?username=DiogoGDF&layout=compact&langs_count=16&theme=blue-green"/>
