@@ -28,6 +28,6 @@
 <br>
 
 <p align="center">
-    <img width="315em" src="https://github-readme-stats-diogogdf.vercel.app/api/top-langs/?username=DiogoGDF&layout=compact&langs_count=8&theme=blue-green"/>
-    <img width="50%" src="http://github-readme-streak-stats.herokuapp.com?user=DiogoGDF&theme=blue-green&date_format=j%20M%5B%20Y%5D" />
+    <img width="350em" src="https://github-readme-stats-diogogdf.vercel.app/api/top-langs/?username=DiogoGDF&layout=compact&langs_count=8&theme=blue-green"/>
+    <img width="560em" src="http://github-readme-streak-stats.herokuapp.com?user=DiogoGDF&theme=blue-green&date_format=j%20M%5B%20Y%5D" />
  </p>
