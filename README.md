@@ -3,9 +3,9 @@
 <h2> こんにちは(^_^)<br>Welcome to my GitHub! 💻🤗</h2>
 
 <ul>
-    <li> 🔭 I’m currently working on some personal projects
-    <li> 🌱 I’m currently learning JavaScript, HTML-5 and CSS
-    <li> 🔎 I'm currently searching for a Front-end job
+    <li> 🔭 I’m currently working at Alltech as a full-stack engineer!
+    <li> 🌱 I’m currently learning React Native & 
+    <li> 👨‍💻 I'm working with React and NodeJS
     <li> 🐧 I use linux and love customizing my OS
     <li> 📫 How to reach me: diogogarbinato@gmail.com
     <li> ⚡ Fun fact: I've lived in 3 different countries :) 
@@ -24,6 +24,9 @@
 <img align="center" alt="Git" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg">
  <img align="center" alt="Git" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/gimp/gimp-original.svg">
 <img align="center" alt="Git" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
+<img align="center" alt="Git" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg">
+<img align="center" alt="Git" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg">
+
 </div>
 <br>
 
