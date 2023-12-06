@@ -4,7 +4,7 @@
 
 <ul>
     <li> 🔭 I’m currently working at Alltech as a full-stack engineer!
-    <li> 🌱 I’m currently learning React Native & 
+    <li> 🌱 I’m currently learning React Native & Gatsby
     <li> 👨‍💻 I'm working with React and NodeJS
     <li> 🐧 I use linux and love customizing my OS
     <li> 📫 How to reach me: diogogarbinato@gmail.com
